@@ -1,0 +1,15 @@
+.card {
+  width: 250px;
+  padding: 20px;
+  border-radius: 12px;
+  background: #fff3cd;
+  margin: 10px auto;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.active {
+  color: green;
+}
+.inactive {
+  color: red;
+}
